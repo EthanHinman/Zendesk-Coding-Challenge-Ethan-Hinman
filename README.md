@@ -3,6 +3,7 @@
 # Description
 This is the coding challenge for Zendesk 2022 intern program. It was written in Python and utilizes Zendesk's API.
 It will fetch and display tickets from a user's Zendesk subdomain. It also contains a basic CLI that responds to commands and output error messages, if neccesary.
+It also contains standard unit tests using the unittest python library. 
 
 # Installation
     Clone the repository using git or download the zipped files via the download button.
