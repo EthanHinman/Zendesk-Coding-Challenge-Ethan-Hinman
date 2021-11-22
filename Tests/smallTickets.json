@@ -1,0 +1,46 @@
+{"tickets": [
+    {
+        "requester_id": 1,
+        "assignee_id": 5,
+        "subject": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "description": "- Winston Churchill",
+        "tags": [
+          "Winston",
+          "s.",
+          "Churchill"
+        ],
+        "created_at":"2021/11/22-09:29:000",
+        "id": 1,
+        "status": "closed",
+        "submitter_id": "Winston Churchill"
+      
+      },
+      {
+        "requester_id": 2,
+        "assignee_id": 5,
+        "subject": "Разум — подлец, оправдает что угодно.",
+        "description": "Fyodor Dostoevsky.",
+        "tags": [
+          "Fyodor",
+          "Dostoevsky"
+        ],
+        "created_at":"2021/11/22-09:29:000",
+        "id": 2,
+        "status": "closed",
+        "submitter_id": "Fyodor Dostoevsky"
+      },
+      {
+        "requester_id": 2,
+        "assignee_id": 5,
+        "subject": "Más vale maña que fuerza",
+        "description": "Common spanish saying. Brains over brawn",
+        "tags": [
+          "español"
+        ],
+        "created_at":"2021/11/22-09:29:000",
+        "id": 3,
+        "status": "closed",
+        "submitter_id": "me"
+      }
+
+]}

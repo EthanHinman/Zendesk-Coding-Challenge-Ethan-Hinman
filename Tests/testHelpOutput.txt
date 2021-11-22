@@ -1,0 +1,26 @@
+
+-----------------------------------------------------------------------------------------------------
+    
+Hello and welcome to Ethan Hinman's Support Ticket Displayer.
+
+Commands are listed below:
+
+-pAll
+    This command will print all tickets.
+
+-p<space>'ticketNumber' ex. -p 2 #This will print ticket 2#
+    This command will print an individual ticket
+
+-h
+    This will print the welcome message again.
+
+-n
+    If there are more than 25 tickets, it will look at the next 25 tickets.
+    If you are at the end, it will wrap around to the beginning 25 tickets.
+
+-e
+    This command will exit the program.
+
+    
+-----------------------------------------------------------------------------------------------------
+
